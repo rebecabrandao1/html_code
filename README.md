@@ -2,4 +2,4 @@
 
 Reaproveitando o template de:
 
-link https://karambyte3.github.io/Simple-responsive-website-Bootstrap-/
+https://karambyte3.github.io/Simple-responsive-website-Bootstrap-/
